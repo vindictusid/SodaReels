@@ -10,7 +10,14 @@
     "id": "72359a8a0fb742d4",
     "username": "6287866179276",
     "password": "sodareels",
-    "expiresAt": "2026-06-09",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
+    "id": "bdb8cfdc57b46582",
+    "username": "6283890775239",
+    "password": "sodareels",
+    "expiresAt": "2025-07-30",
     "allowOffline": true
   },
   {
