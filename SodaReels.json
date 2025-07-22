@@ -49,6 +49,13 @@
     "allowOffline": true
   },
   {
+    "id": "70db154f2f5da14e",
+    "username": "6283826960663",
+    "password": "sodareels",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
